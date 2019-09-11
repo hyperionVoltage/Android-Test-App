@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">CompaniesLocator</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_map_view">Map</string>
+    <string name="companiesAsString">{   \"companies\": [     {       \"name\": \"קומקס\",       \"city\": \"חולון\",       \"address\": \"החורטים 11\",       \"latitude\": \"32.0286543\",       \"longitude\": \"34.7942146\"     },     {       \"name\": \"מייקרוסופט\",       \"city\": \"הרצליה\",       \"address\": \"אריה שנקר 13\",       \"latitude\": \"32.1579889\",       \"longitude\": \"34.8085177\"     },     {       \"name\": \"איי בי אם\",       \"city\": \"הרצליה\",       \"address\": \"ספיר 1\",       \"latitude\": \"32.1645242\",       \"longitude\": \"34.812074\"     },     {       \"name\": \"גוגל ישראל\",       \"city\": \"תל אביב\",       \"address\": \"יגאל אלון 98\",       \"latitude\": \"32.0700544\",       \"longitude\": \"34.7941211\"     },     {       \"name\": \"Wix\",       \"city\": \"Tel Aviv\",       \"address\": \"Tel Aviv Port 36\",       \"latitude\": \"32.0966416\",       \"longitude\": \"34.7731584\"     },     {       \"name\": \"תנובה\",       \"city\": \"רחובות\",       \"address\": \"יצחק פניגר 2\",       \"latitude\": \"31.8976218\",       \"longitude\": \"34.7964478\"     },     {       \"name\": \"תנובה\",       \"city\": \"רחובות\",       \"address\": \"יצחק פניגר 2\",       \"latitude\": \"31.8976218\",       \"longitude\": \"34.7964478\"     },     {       \"name\": \"תנובה\",       \"city\": \"רחובות\",       \"address\": \"יצחק פניגר 2\",       \"latitude\": \"31.8976218\",       \"longitude\": \"34.7964478\"     },     {       \"name\": \"סימילר ווב\",       \"city\": \"תל אביב\",       \"address\": \"דרך מנחם בגין 23\",       \"latitude\": \"32.063696\",       \"longitude\": \"34.7792026\"     },     {       \"name\": \"פידווייזר\",       \"city\": \"רמת גן\",       \"address\": \"דרך זאב זבוטינסקי 2\",       \"latitude\": \"32.08213\",       \"longitude\": \"34.8007846\"     },     {       \"name\": \"בנק הפועלים\",       \"city\": \"ראשון לציון\",       \"address\": \"רוטשילד 13\",       \"latitude\": \"32.0268071\",       \"longitude\": \"34.7434831\"     },     {       \"name\": \"פוקס ויזל\",       \"city\": \"לוד\",       \"address\": \"החרמון 6\",       \"latitude\": \"32.1962827\",       \"longitude\": \"34.8484072\"     }   ] }</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add_company_name_textview">Name</string>
+    <string name="add_company_city">City</string>
+    <string name="add_company_address">Address</string>
+    <string name="add_company_image">Use camera to insert image</string>
+    <string name="add_company_add">add</string>
+    <string name="list_remove">remove</string>
+    <string name="delete_all_message">Would you like you remove all the companies from the list ?</string>
+    <string name="delete_all_title">Remove all ?</string>
+    <string name="generic_accept">Yes</string>
+    <string name="generic_decline">No</string>
+    <string name="exit_application_message">Would you like to exit the application ?</string>
+    <string name="exit_application_title">Exit application ?</string>
+    <string name="add_gallery">Get image from gallery</string>
+</resources>
